@@ -1,6 +1,6 @@
 ## Hello, my name is Camilo Perez.
 
-Im a Junior Software Developer with one year experience based in Venezuela. I have worked with languages like JavaScript, Typescript, Java and Python and frameworks like React, Angular and Node.js + Express in combination with SQL and NoSQL databases like PostgreSQL and MongoDB and Containers using Docker.
+I'm a Junior Software Developer with one year experience based in Venezuela. I have worked with languages like JavaScript, Typescript, Java and Python and frameworks like React, Angular and Node.js + Express in combination with SQL and NoSQL databases like PostgreSQL and MongoDB and Containers using Docker.
 
 ### Tech Stack:
 <p align="left">
