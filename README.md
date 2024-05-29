@@ -30,6 +30,8 @@ I'm a Junior Software Developer with one year experience. I have worked with lan
 
 ## GitHub Stats:
 
-<a href="http://www.github.com/pcamilo89"><img src="https://github-readme-stats.vercel.app/api?username=pcamilo89&show_icons=true&hide=stars,contribs&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=84cc16&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="pcamilo89's GitHub stats" /></a>
+![Stats](https://github-readme-stats.vercel.app/api?username=pcamilo89&show_icons=true&hide=stars,contribs&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=84cc16&bg_color=1e3a8a&hide_border=true&show_icons=true)
 
-<a href="http://www.github.com/pcamilo89"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pcamilo89&stroke=ffffff&background=1e3a8a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=pcamilo89&stroke=ffffff&background=1e3a8a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcamilo89&layout=compact&title_color=22c55e&text_color=ffffff&icon_color=84cc16&bg_color=1e3a8a&hide_border=true&show_icons=true)
